@@ -59,7 +59,7 @@ Python Dosyasını Çalıştırın: Terminal veya komut istemcisinde proje dizin
 
 ```bash
 python dosya_adi.py
-(dosya_adi.py kısmını kendi Python dosyanızın adıyla değiştirin.) ```bash
+(dosya_adi.py kısmını kendi Python dosyanızın adıyla değiştirin.) bash```
 
 ### Sonuçları İnceleme
 Kod çalıştırıldıktan sonra, işlenmiş veriyi incelemek için X_processed değişkenini kontrol edebilirsiniz. Çıktıyı görmek için kodun sonuna şu satırı ekleyebilirsiniz:
