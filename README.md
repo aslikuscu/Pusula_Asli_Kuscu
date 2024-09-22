@@ -53,7 +53,8 @@ Gerekli Kütüphaneleri Yükleyin: Projeyi çalıştırmak için gerekli kütüp
 ```bash
 pip install pandas scikit-learn
 Projeyi Çalıştırma
-Veri Setini İndirin: Projeye ait side_effect_data.csv dosyasını indirip proje dizinine yerleştirin. ```bash
+Veri Setini İndirin: Projeye ait side_effect_data.csv dosyasını indirip proje dizinine yerleştirin.
+```
 
 Python Dosyasını Çalıştırın: Terminal veya komut istemcisinde proje dizinine gidin ve aşağıdaki komutu çalıştırın:
 
