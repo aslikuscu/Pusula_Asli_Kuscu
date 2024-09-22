@@ -51,7 +51,7 @@ Python'u İndirin: Eğer sisteminizde Python yüklü değilse, Python'un resmi w
 Gerekli Kütüphaneleri Yükleyin: Projeyi çalıştırmak için gerekli kütüphaneleri yüklemek için terminal veya komut istemcisine aşağıdaki komutu yazın:
 
 ```bash
-pip install pandas scikit-learn
+pip install pandas scikit-learn '''
 Projeyi Çalıştırma
 Veri Setini İndirin: Projeye ait side_effect_data.csv dosyasını indirip proje dizinine yerleştirin.
 
