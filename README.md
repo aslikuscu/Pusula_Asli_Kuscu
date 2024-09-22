@@ -43,10 +43,13 @@ Tanımlanan pipeline, veri setine uygulanmış ve işlenmiş veri X_processed de
 ### Gereksinimler
 Projenin düzgün çalışması için aşağıdaki Python kütüphanelerinin yüklü olduğundan emin olun:
 
+```bash
 pandas
 scikit-learn
+```
+
 ### Kurulum
-Python'u İndirin: Eğer sisteminizde Python yüklü değilse, Python'un resmi web sitesinden en son sürümü indirin ve kurun.
+Python'u İndirin: Eğer sisteminizde Python yüklü değilse, [Python'un resmi web sitesinden](https://www.python.org/downloads/) en son sürümü indirin ve kurun.
 
 Gerekli Kütüphaneleri Yükleyin: Projeyi çalıştırmak için gerekli kütüphaneleri yüklemek için terminal veya komut istemcisine aşağıdaki komutu yazın:
 
