@@ -37,7 +37,35 @@ Kategorik Verilerin Kodlanması: OneHotEncoder ile kodlama yapılmıştır.
 Sayısal Verilerin Ölçeklendirilmesi: StandardScaler ile standartlaştırma gerçekleştirilmiştir.
 ### 9. Pipeline'ın Uygulanması
 Tanımlanan pipeline, veri setine uygulanmış ve işlenmiş veri X_processed değişkenine atanmıştır. İşlenmiş veri, sayısal ve kategorik verilerin uygun şekilde dönüştürülmesini sağlamıştır.
-Kodun nasıl çalıştırılacağına dair talimatları,
+
+# Bu projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
+
+## Gereksinimler
+### Projenin düzgün çalışması için aşağıdaki Python kütüphanelerinin yüklü olduğundan emin olun:
+
+pandas
+scikit-learn
+Kurulum
+Python'u İndirin: Eğer sisteminizde Python yüklü değilse, Python'un resmi web sitesinden en son sürümü indirin ve kurun.
+
+Gerekli Kütüphaneleri Yükleyin: Projeyi çalıştırmak için gerekli kütüphaneleri yüklemek için terminal veya komut istemcisine aşağıdaki komutu yazın:
+
+```bash
+pip install pandas scikit-learn
+Projeyi Çalıştırma
+Veri Setini İndirin: Projeye ait side_effect_data.csv dosyasını indirip proje dizinine yerleştirin.
+
+Python Dosyasını Çalıştırın: Terminal veya komut istemcisinde proje dizinine gidin ve aşağıdaki komutu çalıştırın:
+
+```bash
+python dosya_adi.py
+(dosya_adi.py kısmını kendi Python dosyanızın adıyla değiştirin.)
+
+### Sonuçları İnceleme
+Kod çalıştırıldıktan sonra, işlenmiş veriyi incelemek için X_processed değişkenini kontrol edebilirsiniz. Çıktıyı görmek için kodun sonuna şu satırı ekleyebilirsiniz:
+
+```bash
+print(X_processed)
 
 ##### Aslı Kuşçu
 ##### aslii.ksc@gmail.com
